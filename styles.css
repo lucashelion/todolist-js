@@ -1,0 +1,38 @@
+.botao-main{
+    font-size: 11pt;
+    font-family: 'Ubuntu';
+    color: #fff;
+    background: #005b00;
+    padding: 5px;
+    border: solid 1px #009900;
+    border-radius: 5px;
+}
+.botao-main:hover{
+    background: #009900;
+}
+.todo-item-text{
+    font-size: 14pt;
+    font-family: 'Raleway';
+}
+.botao-feito{
+    font-size: 10pt;
+    color: #fff;
+    background: #00005b;
+    padding: 4px 15px;
+    border-radius: 5px;
+}
+.botao-feito:hover{
+    color: #fff;
+    background: #00007b;
+}
+.botao-excluir{
+    font-size: 10pt;
+    color: #fff;
+    background: #5b0000;
+    padding: 4px 15px;
+    border-radius: 5px;
+}
+.botao-excluir:hover{
+    color: #fff;
+    background: #7b0000;
+}
